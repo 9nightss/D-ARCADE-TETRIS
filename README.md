@@ -1,6 +1,5 @@
 # D-ARCADE-TETRIS
 This project is one of the games from the side branch of project DILARA called: D-Arcade 
-# D-ARCADE: Tetris
 
 A classic-inspired Tetris clone built with Python and `pygame` — WASD controls, a persistent local leaderboard, and a fixed, no-surprises fall speed so the challenge stays in your stacking, not a creeping clock.
 

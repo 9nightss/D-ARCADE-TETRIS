@@ -8,8 +8,8 @@
 # Tetris
 # ---------------------
 # Controls:
-#     A / D   - move left / right
-#     S       - soft drop
+#    A / D   - move left / right
+#    S       - soft drop
 #    W       - rotate piece
 #    SPACE   - hard drop
 #    P       - pause
